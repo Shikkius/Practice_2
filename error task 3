@@ -1,0 +1,6 @@
+  File "main.py", line 8                                                                                              
+    textemail1@gmail.com @bMZ0ma                                                                                      
+              ^                                                                                                       
+SyntaxError: invalid syntax
+
+в онлайн интерпретаторе, интересно почему?
